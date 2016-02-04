@@ -1,0 +1,19 @@
+question: Part 1) Positive - what were the things you enjoyed about the application process?  What things worked well for you?  What do you think should be continued for future classes?
+
+the tweet should stay.
+
+q: would have tweeted if optional?
+
+yes. better image for yourself from holberton admissions' perspective.
+
+q: should it be mandatory?
+
+a: no, optional, shouldn't have an effect. (no points deducted in the application process)
+
+question: Part 2) Delta - what were things that should be changed about the process?  What things felt badly structured, overly difficult, or out of place?
+
+the only thing maybe. made us change github. it would be better to have everything done through the CLI.
+
+question: Is there anything you'd like to change, or see changed?
+
+liked the tweet quite a bit. kinda shared the school. if i tweet about holberton, "oh wow" my followers would say. adds a social element.0

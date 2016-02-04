@@ -1,0 +1,40 @@
+Question:
+[10:04]
+do you have any particular feelings about the applications process?
+
+[10:04]
+you also have a unique perspective from being a remote student. how do you think the process could have been made better in your position?
+
+Just that it was the most concise application process I have ever been through. It's aim was straightforward and simple to decipher; find those who can learn the way we want to teach. Many applicants were not selected because of their failure to follow instructions and that is what Holberton was looking to catch; I believe.
+
+[10:08]
+Being a remote student is quite fun but I must say not as fun as being there. There are lots of challenges I see in the future for other students. I was blessed to be using a Linux based  OS (Ubuntu) and that would be much of an issue for students that are Windows based.
+
+[10:10]
+I see that Holberton School has made some effort to carry remote students along considering the time and distance factor. But we as remote students have to also make the sacrifice to be around for studies online, which is a bit easier than actually walking to the school.
+
+Question:
+Do you feel like it is easier to be remote?
+
+[10:20]
+which sacrifice is bigger?
+
+[10:20]
+Do you have any suggestions for people with Windows that are remote? (like using puTTY, or dual-booting)
+
+[10:31 AM]
+
+Do you feel like something should be changed?
+
+[10:31]
+If so, what? :simple_smile:
+
+
+[10:32 AM]
+Nope. It sure is not. At least not for me. I have clients, more clients a wife and a dog. I need to attend to them too while I am here. I guess it's a lot easier when you plan for remote study like I did.  But in the case of Holberton, they made things a lot easier by allowing you to go at the pace you would like. I am pretty fast so I have no worries there. I am only thinking from the perspective of another (maybe Nigerian) remote student with a lot on his hands.
+
+[10:32]
+I would suggest dual boot. That's what I have now, but my first love is Ubuntu.
+
+[10:34]
+I don't think that anything should be changed (learning wise). A lot has been learnt already and not via the conventional way (as I see in so many schools). It's more about practice and that, in my opinion is the way to learn.

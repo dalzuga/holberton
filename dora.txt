@@ -1,0 +1,26 @@
+question: Part 1) Positive - what were the things you enjoyed about the application process?  What things worked well for you?  What do you think should be continued for future classes?
+
+question: Part 2) Delta - what were things that should be changed about the process?  What things felt badly structured, overly difficult, or out of place?
+
+level 0 was really easy. would've liked more for a challenge.
+
+would like to understand the scope of this thing. the encryption challenge and the betty holberton thing could just be googled... it felt like it was too easy to get to; would like more of a challenge there as well.
+
+
+in retrospect, the tweet, the youtube video took people out of their comfort zone. i guess the essay was expected. liked that we had to do it on medium.
+
+
+
+question: Is there anything you'd like to change, or see changed?
+
+
+other comments:
+
+didn't mind the tweet. the youtube is fine because i just made it private.
+
+
+would've liked a little more information about the curriculum beforehand. not really necessarily the specifics.
+
+"community-driven" and "project-based" do not give adequate explanation. really all i could say is that it was "school of software engineering" when i was asked what it was about.
+
+wouldn't have to be a week-by-week breakdown. it would be more like on the ballpark of 3-months, 6-months, 9-months

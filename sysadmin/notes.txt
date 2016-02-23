@@ -1,0 +1,1 @@
+Note: If no plist file exists for com.apple.loginwindow, this method will not work. This file (/var/root/Library/Preferences/com.apple.loginwindow.plist) does not exist on a fresh installation until the user changes a login window setting (such as turning on fast user switching).

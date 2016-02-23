@@ -5,15 +5,7 @@
 
 user=$3
 
-mkdir -p /Users/Shared/${user}/
-
-if [ -f /Users/Shared/${user}/.bash_profile ];
+if [ -f /Volumes/RoamingProfiles/${user}/.bash_profile ];
 then
-    cp /Users/Shared/${user}/.bash_profile /Users/${user}/.bash_profile # fetch .bash_profile
-fi
-
-if [ -x /Users/Shared/${user}/logonscript.sh ];
-then
-    cp /Users/Shared/${user}/logonscript.sh /Users/${user}/logonscript.sh # fetch custom log on script
-    /Users/${user}/logonscript.sh # execute script
+    rsync -avz /Volumes/RoamingProfiles/${user}/.bash_profile /Users/${user}/ # fetch .bash_profile
 fi

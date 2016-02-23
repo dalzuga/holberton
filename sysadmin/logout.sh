@@ -5,4 +5,9 @@
 
 user=$3
 
-cp /Users/${user}/.bash_profile /Users/Shared/${user}/
+mkdir -p /Users/Shared/${user}/
+
+if [ -f /Users/Shared/${user}/.bash_profile ];
+then
+    cp /Users/${user}/.bash_profile /Users/Shared/${user}/
+fi

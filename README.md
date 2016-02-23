@@ -1,1 +1,1 @@
-# holbertonadmissions
+# holberton
